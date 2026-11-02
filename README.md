@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 3D DYNAMIC WAVING BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=34,28,18,9,0&height=220&section=header&text=Open%20Higgsfield%20AI&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%8E%AC%20Self-Hosted%20AI%20Image%20Generation%20%26%20Cinema%20Studio%20(20%2B%20Models)&descAlignY=62&descAlign=50" width="100%" alt="Open Higgsfield AI 3D Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=34,28,18,9,0&height=220&section=header&text=Open%20Higgsfield%20AI&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%8E%AC%20Self-Hosted%20AI%20Image%20Generation%20%E2%80%A2%20Cinema%20Studio%20(20%2B%20Models)&descAlignY=62&descAlign=50" width="100%" alt="Open Higgsfield AI 3D Banner" />
 
   <!-- 3D ANIMATED PROJECT ICON -->
   <a href="https://github.com/OPSHARP/Open-Higgsfield-AI">
