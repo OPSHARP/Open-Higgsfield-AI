@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- 3D DYNAMIC WAVING BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=34,28,18,9,0&height=220&section=header&text=Open%20Higgsfield%20AI&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%8E%AC%20Self-Hosted%20AI%20Image%20Generation%20%E2%80%A2%20Cinema%20Studio%20(20%2B%20Models)&descAlignY=62&descAlign=50" width="100%" alt="Open Higgsfield AI 3D Banner" />
-
   <!-- 3D ANIMATED PROJECT ICON -->
   <a href="https://github.com/OPSHARP/Open-Higgsfield-AI">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Film%20Projector.png" width="95" height="95" alt="Open Higgsfield AI 3D Icon" />
@@ -370,8 +367,4 @@ Built with [Muapi.ai](https://muapi.ai) — the unified API for AI image and vid
 ---
 *Looking for a free Higgsfield AI alternative? Open Higgsfield AI is an open-source AI image and video generation studio and Higgsfield AI replacement that you can self-host, customize, and extend.*
 
----
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=34,28,18,9,0&height=100&section=footer" width="100%" alt="3D Waving Footer" />
-</div>
